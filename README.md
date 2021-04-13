@@ -13,4 +13,4 @@ creates an active responsibility for the contributors. So, I created a minimum c
 Only the contributors who meet the minimum value can become approvers.
 
 The blockchain side is programmed in Solidity, the source code and tests can be found in the `etheruem` directory. The frontend is developed
-using JavaScript React and specifically the Next module.
+using JavaScript React and specifically the Next module. Please have a look at the `package.json` file for the list of libraries used.
