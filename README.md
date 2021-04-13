@@ -12,5 +12,5 @@ on by the contributors. The requests are approved after gaining 50% approvals fr
 creates an active responsibility for the contributors. So, I created a minimum contribution parameter, which is set by the campaign manager.
 Only the contributors who meet the minimum value can become approvers.
 
-The blockchain side is programmed in Solidity, the source code and tests can be found in the >etheruem> directory. The frontend is developed
+The blockchain side is programmed in Solidity, the source code and tests can be found in the `etheruem` directory. The frontend is developed
 using JavaScript React and specifically the Next module.
